@@ -19,3 +19,5 @@
     > https://qiita.com/sakasegawa/items/db2cff79bd14faf2c8e0
 - .envファイルにAPI_KEYを保存し，Goの「godotenv」パッケージを使ってAPI_KEYを読み込み．
 - あとはgoによるapiを叩いているだけ
+
+commit test
